@@ -1,0 +1,8 @@
+1. https://scikit-learn.org/stable/modules/clustering.html
+2. https://scikit-learn.org/stable/modules/clustering.html#dbscan
+3. https://scikit-learn.org/stable/modules/clustering.html#bisect-k-means
+4. https://scikit-learn.org/stable/modules/outlier_detection.html
+5. https://www.tensorflow.org/tutorials/generative/autoencoder
+
+
+ 
